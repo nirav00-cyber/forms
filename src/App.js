@@ -1,8 +1,11 @@
+import SimpleInput from "./components/SimpleInput";
+
 function App() {
   return (
-    <div>
-      <h2>Let's ge add .
-        t started!</h2>
+    <div className="app">
+      <SimpleInput>
+        
+      </SimpleInput>
     </div>
   );
 }
